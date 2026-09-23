@@ -67,16 +67,14 @@ It addresses questions such as:
 
 The checklist isn't specific to user story grooming. It can be adapted to other AI-assisted business workflows.
 
-## What's Included
+## Download the Toolkit
 
-`weekly-story-grooming-prep-public.md`
-The reusable skill instructions.
+📘 [Download the complete BA AI Workflow Toolkit (PDF)](BA_AI_Workflow_Toolkit.pdf)
 
-`reusable-ai-workflow-risk-checklist.md`
-A companion checklist for responsible use and human review.
+🤖 [Weekly Story Grooming Prep Skill](weekly-story-grooming-prep-public.md)
 
-`BA_AI_Workflow_Toolkit.pdf`
-A formatted version of the toolkit with guidance for adapting it to your own workflow.
+🛡️ [Reusable AI Workflow Risk Checklist](reusable-ai-workflow-risk-checklist.md)
+
 
 ## Using It With Your Team
 
